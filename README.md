@@ -1,2 +1,2 @@
-# SpikeBot
-Discrod_Bot
+#Endless_Friends
+Discord Bot
